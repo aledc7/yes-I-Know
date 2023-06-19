@@ -13,33 +13,53 @@ author and composer: Alejandro Cesar De Castro (aledc)
 
 __Verso 1:__  
 ```
+Am7            Bm78
 Embracing life in my own way.
-(A#7) Through the highs, (D#7) through the fakes,
+Am7                 Bm7
+Through the highs, through the fakes,
+Am7              Bm7
 Finding strength as my heart grows.
+Am7                   Bm7
 With every challenge, I'll rise above,
 ```
 
 __Coro:__  
 ```
-(Gm7) I'll rise like the sun in the sky,
-(A#7) Spreading light as the days go by.
-(Gm7) In every moment, I'll find my flow,
-(A#7) Yes, I know, yes, Yes I know.
+Gm7                Am7
+I'll rise like the sun in the sky,
+Gm7                    Am7
+Spreading light as the days go by.
+Gm7              Am7
+In every moment, I'll find my flow,
+Gm7          Am7
+Yes, I know, yes, Yes I know.
+Gm7 Am7 Gm7 Am7
 ```
+Bm7 Am7 Bm7 Am7
 
 __Verso 2:__ 
 ```
-(A#7) Shadows may come, (D#7) doubts may arise,
+Bm7               Am7
+Shadows may come, doubts may arise,
+Bm7                     Am7
 But I'll face them with open eyes.
-(A#7) With determination, (D#7) I'll push through,
+Bm7                 Am7
+With determination, I'll push through,
+Bm7                     Am7
 Confronting challenges, staying strong. 
 ```
 
  
-__Coro:__  
 ```
-(G) I'll rise like the sun in the sky,
-(A#7) Spreading light as the days go by.
-(G) In every moment, I'll find my flow,
-(A#7) Yes, I know, Yes, I know
+Gm7                Am7
+I'll rise like the sun in the sky,
+Gm7                    Am7
+Spreading light as the days go by.
+Gm7              Am7
+In every moment, I'll find my flow,
+Gm7          Am7
+Yes, I know, yes, Yes I know.
+
+Gm7   Am7    Gm7    Am7
+ohoh  ohoh   ohoh   ohoh
 ```
