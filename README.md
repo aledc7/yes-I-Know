@@ -13,7 +13,7 @@ author and composer: Alejandro Cesar De Castro (aledc)
 
 __Verso 1:__  
 ```
-Am7            Bm78
+Am7            Bm7
 Embracing life in my own way.
 Am7                 Bm7
 Through the highs, through the fakes,
