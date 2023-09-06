@@ -102,5 +102,27 @@ Yes, I know, yes, Yes I know.
 00:02:11.000 --> 00:02:24.000
 [Music]
 ```
+_______________________________________
+## Letra Sola:   
+
+Embracing life in my own way.
+Through the highs, through the fakes,
+Finding strength as my heart grows.
+With every challenge, I'll rise above,
 
 
+I'll rise like the sun in the sky,
+Spreading light as the days go by.
+In every moment, I'll find my flow,
+Yes, I know, yes, Yes I know.
+
+Shadows may come, doubts may arise,
+But I'll face them with open eyes.
+With determination, I'll push through,
+Confronting challenges, staying strong.
+
+I'll rise like the sun in the sky,
+Spreading light as the days go by.
+In every moment, I'll find my flow,
+Yes, I know, yes, Yes I know.
+_______________________________________
